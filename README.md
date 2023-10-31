@@ -1,2 +1,2 @@
-# C-Code_DSA
-DSA Practice
+# ML using Python
+ML using Python
